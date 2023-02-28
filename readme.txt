@@ -4,4 +4,5 @@ wwwww
 cat
 dog
 big
-9999
+9999and
+or
